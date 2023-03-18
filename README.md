@@ -1,2 +1,2 @@
-# ruby-mastermind
-Command line mastermind in ruby
+# Ruby Mastermind
+Command line mastermind in ruby for The Odin Project
